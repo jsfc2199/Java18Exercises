@@ -1,0 +1,27 @@
+
+e
+java:S6208H"CMerge the previous cases into this one using comma-separated label.(Õº™ğşÿÿÿÿ8ºÿú›†0
+p
+java:S1192R"SUse already-defined constant 'COLOR_DEFAULT' instead of duplicating its value here.(ÔÎ ı8»ÿú›†0
+K
+java:S1121Z".Extract the assignment out of this expression.(§£¨8»ÿú›†0
+K
+java:S1121\".Extract the assignment out of this expression.(ÕòèÜ8»ÿú›†0
+P
+java:S1121a".Extract the assignment out of this expression.(ƒ‹±Øøÿÿÿÿ8»ÿú›†0
+Q
+java:S1121€".Extract the assignment out of this expression.(®­ôÂÿÿÿÿÿ8»ÿú›†0
+Q
+java:S1121ƒ".Extract the assignment out of this expression.(¾ÖÊ¹ÿÿÿÿÿ8»ÿú›†0
+L
+java:S1121†".Extract the assignment out of this expression.(Õ«§€8»ÿú›†0
+Q
+java:S1121‰".Extract the assignment out of this expression.(Òß¥¬ûÿÿÿÿ8»ÿú›†0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl
+G
+java:S1197R"*Move the array designators [] to the type.(ÔÎ ı8Êÿú›†0
+[
+java:S1854a"9Remove this useless assignment to local variable "total".(ƒ‹±Øøÿÿÿÿ8Ëÿú›†0
+L
+java:S1481`"*Remove this unused "total" local variable.(ÓŸı³ûÿÿÿÿ8Ëÿú›†0
+=	java:S131f""Add a default case to this switch.(Ú¬ñ,8Ìÿú›†0

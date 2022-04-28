@@ -1,0 +1,33 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²õØ·
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø‘úŞ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îµÊ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î¨ÛŒ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ»Ø!
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö©¤şÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Åªşßúÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä““
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş›Ò¤
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µáË¡
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ø‘úŞ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(îµÊ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î¨ÛŒ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğ»Ø!
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ö©¤şÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Åªşßúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ä““
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ş›Ò¤
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(µáË¡
+W
+java:S1126F"AReplace this if-then-else statement by a single return statement.(ÀíÑı
+@
+java:S1197g"*Move the array designators [] to the type.(âÜÍÕ

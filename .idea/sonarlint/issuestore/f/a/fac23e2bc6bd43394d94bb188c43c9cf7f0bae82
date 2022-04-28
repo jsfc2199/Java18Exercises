@@ -1,0 +1,21 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "hack and slash" 3 times.(êø£ªøÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "square enix" 3 times.(êø£ªøÿÿÿÿ
+m
+java:S1104"RMake series a static final constant or non-public and provide accessors if needed.(òÌ¨ıÿÿÿÿ
+l
+java:S1104"WMake videojuegos a static final constant or non-public and provide accessors if needed.(“¤Æ
+G
+java:S1444",Make this "public static series" field final(òÌ¨ıÿÿÿÿ
+F
+java:S1444"1Make this "public static videojuegos" field final(“¤Æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êêÌâ
+8
+java:S2386"Make this member "protected".(òÌ¨ıÿÿÿÿ
+2
+java:S2386"Make this member "protected".(“¤Æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¨‹…ûÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(“ƒ×Ñøÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÍöĞøÿÿÿÿ

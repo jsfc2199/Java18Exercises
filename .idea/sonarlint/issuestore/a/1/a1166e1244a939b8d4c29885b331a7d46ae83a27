@@ -1,0 +1,8 @@
+
+{
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "finalSentense".(Ó×®ª
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ‰–Ü
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹§¨Üùÿÿÿÿ
+r
+java:S1450"WRemove the "textUser" field and declare it as a local variable in the relevant methods.(ê¨”èûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ïŸùùÿÿÿÿ
